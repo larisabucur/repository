@@ -1,1 +1,3 @@
 # repository
+
+schimbare de plan 
